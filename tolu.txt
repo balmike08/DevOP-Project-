@@ -1,7 +1,8 @@
 My name is Tolu 
 #I am learning devOp
 
-
+ i solved my first git problem "fatal error 403" by granting read write permission to my repo for my Personal access token
+Please note that to push data to your repo from local system , your git account needs to use Token and not password
 
 												
 
